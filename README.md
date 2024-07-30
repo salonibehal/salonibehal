@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salonibehal
 - 👀 I’m interested in CyberSecurity 
-- 🌱 I’m currently learning Cyber Security 
-- 💞️ I’m looking to collaborate on Cyber security 
+- 🌱 I’m currently learning Cyber Security, and Networking 
+- 💞️ I’m looking to collaborate on Cyber security and Networking 
 - 📫 How to reach me ...
 
 <!---
